@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RV Salon Manager - Quick Start Guide
 
 ## Project Status
@@ -79,3 +80,6 @@ Key Files:
 ---
 
 **Ready to continue building!** 🚀
+=======
+# RV_App
+>>>>>>> f2d0315081c3499ace73b474cd7677a5f3fef550
